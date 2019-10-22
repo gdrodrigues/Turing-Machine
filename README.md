@@ -3,7 +3,7 @@ Máquina de Turing Universal. Recebe como entrada uma outra máquina de Turing e
 
 Building Blocks
 LER http://www.jflap.org/tutorial/turing/buildingblocks/buildingblocks.htm
-Usado para criação de grandes Máquinas de Turing
+Usado para criação de Máquinas de Turing grandes
 
 
 Casos de Teste
