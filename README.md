@@ -20,4 +20,4 @@ Casos de Teste
             - String do teste (3)
             - Mesmas palavras do teste(2)
 
-Arquivo: Exemplos de uso (PDF)
+Arquivo: Máquina de Turing - Exemplos de uso (PDF)
