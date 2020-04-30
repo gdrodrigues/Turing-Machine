@@ -2,7 +2,7 @@
 Máquina de Turing Universal. Recebe como entrada uma outra máquina de Turing e uma palavra de entrada
 
 Building Blocks
-LER http://www.jflap.org/tutorial/turing/buildingblocks/buildingblocks.htm
+http://www.jflap.org/tutorial/turing/buildingblocks/buildingblocks.htm
 Usado para criação de Máquinas de Turing grandes
 
 
