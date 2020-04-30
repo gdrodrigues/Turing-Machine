@@ -5,6 +5,7 @@ Building Blocks
 http://www.jflap.org/tutorial/turing/buildingblocks/buildingblocks.htm
 Usado para criação de Máquinas de Turing grandes
 
+Arquivo Final: MTU_corrigido_FINAL
 
 Casos de Teste
 
@@ -18,3 +19,5 @@ Casos de Teste
 - (4)Entrada: String-> Não representa uma máquina de Turing e palavra que não seria aceita por uma
             - String do teste (3)
             - Mesmas palavras do teste(2)
+
+Arquivo: Exemplos de uso (PDF)
